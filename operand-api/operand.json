@@ -1,0 +1,15 @@
+{
+  "usuario": [
+    {
+      "id": "aleatório@hoje.com",
+      "nome": "Fulano",
+      "email": "aleatório@hoje.com",
+      "cep": "70200004",
+      "rua": "SCES Trecho 4",
+      "numero": "12",
+      "bairro": "Asa Sul",
+      "cidade": "Brasília",
+      "estado": "DF"
+    }
+  ]
+}
